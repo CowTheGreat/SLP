@@ -130,7 +130,7 @@ export const leaderboardData: LeaderboardEntry[] = [
   },
   {
     rank: 16,
-    name: "Sarath Chandaran",
+    name: "Sarath Chandran",
     username: "--",
     points: 50,
     contributions: 1,
