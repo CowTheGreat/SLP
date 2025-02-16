@@ -43,22 +43,21 @@ export const projects: Project[] = [
       github: "https://github.com/idhika22",
     },
   },
-  // {
-  //   id: "3",
-  //   title: "Login",
-  //   description:
-  //     "This project is an interactive desktop application that allows users to record audio in real-time, save the recordings, and transcribe the audio to text using the Whisper AI model. The user-friendly interface is built with Tkinter, making it easy to start and stop recordings and generate transcriptions with just a few clicks.",
-  //   fullDescription:
-  //     "This project is an interactive desktop application that allows users to record audio in real-time, save the recordings, and transcribe the audio to text using the Whisper AI model. The user-friendly interface is built with Tkinter, making it easy to start and stop recordings and generate transcriptions with just a few clicks. Features: Real-Time Audio Recording: Users can start and stop audio recordings with the click of a button. Audio is captured using PyAudio, ensuring high-quality recordings. Audio File Management: Recorded audio is saved in WAV format for compatibility and quality retention. Automatic file saving upon stopping the recording. AI-Powered Transcription: Uses Whisper, an advanced speech-to-text model, to transcribe recorded audio. Transcription results are saved to a text file for easy access and further use. User-Friendly Interface: Built with Tkinter, the application provides a simple, clean, and responsive interface. Buttons are styled for ease of use and accessibility.",
-  //   techStack: ["Python", "Tkinter", "Whisper"],
-  //   githubUrl:
-  //     "https://github.com/CowTheGreat/Real-Time-Audio-Recorder-and-Transcriber-using-Whisper-AI",
-  //   owner: {
-  //     name: "Aravindhan C",
-  //     linkedin: "https://www.linkedin.com/in/aravindhan-chakravarthy/",
-  //     github: "https://github.com/CowTheGreat",
-  //   },
-  // },
+  {
+    id: "3",
+    title: "Verdic-AI",
+    description:
+      "VerdicAI is an innovative platform that revolutionizes the legal ecosystem by integrating advanced artificial intelligence technologies. We aim to enhance legal processes, streamline operations, and deliver more efficient and equitable justice solutions.",
+    fullDescription:
+      "VerdicAI is an innovative platform that revolutionizes the legal ecosystem by integrating advanced artificial intelligence technologies. We aim to enhance legal processes, streamline operations, and deliver more efficient and equitable justice solutions.",
+    techStack: ["Python", "HTML", "CSS"],
+    githubUrl: "https://github.com/GTR-R34-Skyline/Verdic-AI",
+    owner: {
+      name: "M Shashank",
+      linkedin: "https://www.linkedin.com/in/shashank-murari-rb26dett",
+      github: "https://github.com/GTR-R34-Skyline/",
+    },
+  },
   {
     id: "4",
     title: "LIght Yagami Portfolio",
