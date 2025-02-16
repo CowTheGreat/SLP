@@ -156,7 +156,7 @@ export const leaderboardData: LeaderboardEntry[] = [
     rank: 19,
     name: "SHAAM SUNDER V",
     username: "--",
-    points: 50,
+    points: 100,
     contributions: 1,
     projects: ["LIght Yagami Portfolio"],
   },
