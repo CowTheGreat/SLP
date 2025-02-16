@@ -34,6 +34,14 @@ export const leaderboardData: LeaderboardEntry[] = [
   },
   {
     rank: 4,
+    name: "Sanjai .M",
+    username: "--",
+    points: 70,
+    contributions: 1,
+    projects: ["Typing Speed Tester"],
+  },
+  {
+    rank: 5,
     name: "R SHARVESH",
     username: "--",
     points: 50,
@@ -41,20 +49,12 @@ export const leaderboardData: LeaderboardEntry[] = [
     projects: ["ASCII", ""],
   },
   {
-    rank: 5,
+    rank: 6,
     name: "R.SHREENIDHI",
     username: "--",
     points: 50,
     contributions: 1,
     projects: ["CSE C Section Class Website"],
-  },
-  {
-    rank: 6,
-    name: "Sanjai .M",
-    username: "--",
-    points: 50,
-    contributions: 1,
-    projects: ["Typing Speed Tester"],
   },
   {
     rank: 7,
