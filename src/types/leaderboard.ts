@@ -26,11 +26,11 @@ export const leaderboardData: LeaderboardEntry[] = [
   },
   {
     rank: 3,
-    name: "Sidarth",
+    name: "SHAAM SUNDER V",
     username: "--",
-    points: 50,
+    points: 100,
     contributions: 1,
-    projects: ["ASCII", ""],
+    projects: ["LIght Yagami Portfolio"],
   },
   {
     rank: 4,
@@ -154,11 +154,11 @@ export const leaderboardData: LeaderboardEntry[] = [
   },
   {
     rank: 19,
-    name: "SHAAM SUNDER V",
+    name: "Sidarth",
     username: "--",
-    points: 100,
+    points: 50,
     contributions: 1,
-    projects: ["LIght Yagami Portfolio"],
+    projects: ["ASCII", ""],
   },
   {
     rank: 20,
